@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1589379628 source:c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"tipo.h"
+	"color.h"
+	"servicios.h"
+
+1589373895 c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\mascotas.h
+
+1589372169 source:c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+
+1589377237 source:c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1589377279 source:c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1589377262 c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\color.h
+
+1589377681 source:c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1589377681 c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\servicios.h
+
+1589377237 c:\users\nahue\onedrive\escritorio\acostapplabi\parciallabi\tipo.h
+
